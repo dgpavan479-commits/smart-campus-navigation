@@ -2,4 +2,4 @@ dash
 dash-leaflet
 networkx
 osmnx
-gunicorn app:server
+gunicorn
